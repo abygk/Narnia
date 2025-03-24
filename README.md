@@ -13,12 +13,10 @@ narnia7: 54RtepCEU0
 narnia8: i1SQ81fkb8
 narnia9: 1FFD4HnU4K
 
-ssh narnia8@narnia.labs.overthewire.org -p 2226
-
 Behemoth
 
 behemoth0: behemoth0
 behemoth1: 8YpAQCAuKf
-behemoth2: 1xPJbQtH8q
+behemoth2: IxPJbQtH8q
+behemoth3: JQ6tZGqt0i
 
-ssh behemoth2@behemoth.labs.overthewire.org -p 2221
